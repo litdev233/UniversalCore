@@ -3,4 +3,7 @@
   VS2015 Community update3
   
 使用到的第三方组件/库：
-  * Amaze UI
+	
+- [Amaze UI](http://amazeui.org/ "Amaze UI")
+
+
